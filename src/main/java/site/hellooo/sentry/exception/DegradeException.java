@@ -1,4 +1,4 @@
-package site.hellooo.sentry.exceptions;
+package site.hellooo.sentry.exception;
 
 /**
  * @author Jeb.Wang
